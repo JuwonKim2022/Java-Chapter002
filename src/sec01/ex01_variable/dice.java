@@ -11,6 +11,7 @@ public class dice {
 			++count;
 			ab = (int)(Math.random()*6+1);
 			System.out.println(count+"\t\t"+ab);
+			
 		}
 	}
 }
